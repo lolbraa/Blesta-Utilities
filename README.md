@@ -7,9 +7,12 @@ Some custom utilities used with Blesta
 For the keyboardwarriors missing shortcuts on [Blesta Translator](https://translate.blesta.com/translation/).
 This scripts simply adds shortcuts to lessen the hassle of having to use the mouse.
 
-You copy the script into [Tampermonkey](https://www.tampermonkey.net/) and refresh the page.
+###Installation
+Add [Tampermonkey](https://www.tampermonkey.net/) (or similar) to your browser.
+Create a new script and copy it into the editor.
 
-Shortcuts
+Shortcuts are configurable. 
+Defaults:
 "CTRL" + "M" to submit translation.
 "CTRL" + "," to copy the Google translation.
 "CTRL" + "." to click the first contribution (in confirmation-mode).
